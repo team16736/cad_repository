@@ -1,2 +1,8 @@
 # cad_repository
-CAD files and 3D printed photos
+This repository contains:
+
+1. CAD files
+2. 3D printed photos
+3. 3D files
+4. other resources
+
